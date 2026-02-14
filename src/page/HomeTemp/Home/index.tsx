@@ -55,7 +55,7 @@ export default function index() {
               personal projects that I built to learn new technologies and
               improve my skills.
             </p>
-            <div className="flex space-x-4">
+            <div className="flex space-x-4 mt-4">
               <NavLink to={"/project"} className="btn">
                 View Projects
               </NavLink>
