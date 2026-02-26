@@ -18,7 +18,7 @@ export default function index() {
           {/* image */}
           <div className="m-3 md:ml-[100px]">
             <img
-              src="/img/me.jpg"
+              src="/img/me.JPG"
               alt="My Photo"
               className="w-48 md:w-80 lg:w-100 rounded-tl-[32px] rounded-br-[32px] "
             />
