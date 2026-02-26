@@ -1,7 +1,6 @@
 import { motion } from "framer-motion";
 import { NavLink } from "react-router-dom";
 import "./css/style.css";
-import me from "/img/me.jpg";
 
 export default function index() {
   return (
@@ -19,7 +18,7 @@ export default function index() {
           {/* image */}
           <div className="m-3 md:ml-[100px]">
             <img
-              src={me}
+              src="/img/me.jpg"
               alt="My Photo"
               className="w-48 md:w-80 lg:w-100 rounded-tl-[32px] rounded-br-[32px] "
             />
