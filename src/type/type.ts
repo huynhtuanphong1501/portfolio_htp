@@ -10,3 +10,8 @@ export type NavRoute = {
   to: string;
   content: string;
 };
+
+export type CopyCard = {
+  label: string;
+  value: string;
+};
