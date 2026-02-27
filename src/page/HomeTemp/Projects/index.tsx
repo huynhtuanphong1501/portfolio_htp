@@ -56,7 +56,7 @@ export default function index() {
           tech="React, Tailwind CSS"
           image="/img/port.png"
           link="https://github.com/huynhtuanphong1501/portfolio_htp"
-          live="https://portfolio-htp-e271.vercel.app"
+          live="https://portfolio-htp-n1dd.vercel.app"
         />
       </div>
     </div>

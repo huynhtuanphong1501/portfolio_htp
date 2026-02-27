@@ -12,7 +12,7 @@ export default function CvPage() {
             <h2>Dob: 15/01/2001</h2>
             <h2>Phone: (+84) 965784321</h2>
             <h2>Email: phonghuynh1501@gmail.com</h2>
-            <h2>Website: https://portfolio-htp-e271.vercel.app</h2>
+            <h2>Website: https://portfolio-htp-n1dd.vercel.app</h2>
           </div>
           {/* summary */}
           <div className="mt-[20px] text-black px-[50px] md:mt-[50px]">
@@ -385,7 +385,7 @@ export default function CvPage() {
                       <li>
                         <span className="font-semibold">Live Demo:</span>{" "}
                         <a
-                          href="https://portfolio-htp-e271.vercel.app"
+                          href="https://portfolio-htp-n1dd.vercel.app"
                           className="underline"
                         >
                           Link
@@ -402,7 +402,7 @@ export default function CvPage() {
 
       <div className="flex justify-center my-5">
         <button className="btn mt-5">
-          <a href="/pdf/Huynh_Tuan_Phong_CV.pdf">View PDF</a>
+          <a href="/pdf/cv.pdf">View PDF</a>
         </button>
       </div>
     </>
